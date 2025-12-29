@@ -1,0 +1,7 @@
+{
+  "name": "BizScale - Universal Business Management MVP",
+  "description": "A comprehensive, multi-tenant business management system that dynamically adapts to 10+ business models including retail, manufacturing, logistics, and real estate.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
